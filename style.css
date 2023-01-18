@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed&display=swap');
+
+img{
+    border-radius: 10px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.8);
+    
+}
+body{
+    background-color: rgb(231, 231, 231);
+    font-family: 'Sofia Sans Semi Condensed', verdana, sans-serif;
+    font-size: large;
+    font-weight: 400;
+    font-style:italic;
+    line-height: 25px;
+    letter-spacing: 1px;
+    text-decoration: dotted;
+    color: rgb(39, 30, 30);
+  
+    padding-left: 10px;
+    border-radius: 10px;
+
+}
+/*.spis {
+    color: rgb(73, 52, 25);
+    background-color: rgb(18, 18, 212) ;
+    margin-bottom: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: brown;
+    /*padding: 10px;*/
+ .down_move {
+        border: 2px  rgb(19, 17, 17);
+        display: inline-flex;
+        margin: 10px;
+       margin-top: 250px;
+    }
+  
+
+.left {
+    border: 2px  rgb(19, 17, 17);
+    background-color: rgb(211, 243, 235);
+    border-radius: 8px;
+    margin-top: 0;
+    padding-left: 10px;
+}
+.right {
+    border: 2px  rgb(19, 17, 17);
+    background-color: rgb(211, 243, 235);
+    border-radius: 8px;
+    margin-top: 0;
+    display: block;
+}
+.one td {
+    color:orangered;
+    font-size: 20px;
+    padding: 0px;
+
+   
+}
+.dm1 {
+ color: rgb(84, 85, 87);
+ font-size: 15px;
+ padding: 12px;
+  ;
+
+}
+.btn {
+    background-color: darkolivegreen;
+    padding: 10px;
+    color:rgb(253, 208, 208);
+    border-radius: 8px;
+    border: none;
+    box-shadow:  4px 4px 14px rgba(0, 0, 0, 0.8);
+   
+}
+.btn:hover {
+    background-color: aquamarine;
+    color: black;
+}
+a{
+    color: darkslategrey;
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(108, 132, 240);
+    font-size: larger;
+}
+.up_stand {
+    position:fixed;
+    border: 2px  rgb(19, 17, 17);
+    display: inline-flex;
+    margin: 10px;
+    z-index: 2;
+    opacity: 13;
+}
+.us1 {
+    padding-left: 30px;
+    border: 2px  rgb(19, 17, 17);
+    background-color: rgb(177, 197, 192);
+    border-radius: 8px;
+    margin: 10px;
+    margin-left: 180px;
+}
+.us1 p{
+    margin-bottom: 15px;
+}
+.us1 h1 hr{
+    margin: 30px;;
+}
