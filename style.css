@@ -1,15 +1,2 @@
 @import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed&display=swap');
-body{
-    background-color: rgb(231, 231, 231);
-    font-family: 'Sofia Sans Semi Condensed', verdana, sans-serif;
-    font-size: large;
-    font-weight: 400;
-    font-style:italic;
-    line-height: 25px;
-    letter-spacing: 1px;
-    text-decoration: dotted;
-    color: rgb(39, 30, 30);
-    padding-left: 10px;
-    border-radius: 10px;
-    text-align: center;
-}
+body{background-color: rgb(231, 231, 231); font-family: 'Sofia Sans Semi Condensed', verdana, sans-serif; font-size: large; font-weight: 400; font-style:italic; line-height: 25px; letter-spacing: 1px; text-decoration: dotted; color: rgb(39, 30, 30); padding-left: 10px; border-radius: 10px; text-align: center;}
