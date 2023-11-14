@@ -1,1 +1,1 @@
-[Markdown CV](https://dezersky.github.io/rsschool-cv/cv)
+[HTML & CSS](https://dezersky.github.io/rsschool-cv/)
